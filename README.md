@@ -28,7 +28,8 @@ To compile and run the program, follow these steps:
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/yourusername/simple-calculator.git
-cd simple-calculator```
+cd simple-calculator
+```
 
 ### 2. Compile the Program
 
