@@ -27,7 +27,7 @@ To compile and run the program, follow these steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/simple-calculator.git
+git clone https://github.com/mannanDS/simple-calculator.git
 cd simple-calculator
 ```
 
